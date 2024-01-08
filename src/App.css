@@ -1,0 +1,40 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Poppins&display=swap');
+
+body{
+  background-color: rgba(0, 0, 0, 0.178);
+}
+
+.txttitle{
+  font-size: medium;
+  padding: 40px;
+  text-align: center;
+  font-family: 'Francois One', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+
+#cardsobre{
+  margin-top: 10rem;
+}
+
+#cardlocacao{
+  margin-top: 10rem;
+}
+
+.txttitle h1{
+  font-family: 'Francois One', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  padding: 10px;
+
+}
+
+
+.navbarcustom{
+  display: flexbox;
+  justify-content: center;
+  align-items: center ;
+  text-align: center;
+}
+
+
+
