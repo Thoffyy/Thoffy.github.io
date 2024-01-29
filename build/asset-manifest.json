@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/korea-deploy/static/css/main.4f597b7b.css",
+    "main.js": "/korea-deploy/static/js/main.50f215f0.js",
+    "static/js/787.d1cbf40d.chunk.js": "/korea-deploy/static/js/787.d1cbf40d.chunk.js",
+    "index.html": "/korea-deploy/index.html",
+    "main.4f597b7b.css.map": "/korea-deploy/static/css/main.4f597b7b.css.map",
+    "main.50f215f0.js.map": "/korea-deploy/static/js/main.50f215f0.js.map",
+    "787.d1cbf40d.chunk.js.map": "/korea-deploy/static/js/787.d1cbf40d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f597b7b.css",
+    "static/js/main.50f215f0.js"
+  ]
+}
